@@ -1,1 +1,7 @@
 
+# 01- What is DevOps?
+### DevOps is a methodology that emphasizes collaboration, communication, and automation between software development teams and IT operations teams. It aims to streamline the software development process, from planning and development to testing and deployment, by breaking down traditional silos and promoting a culture of collaboration and continuous improvement. The main goal of DevOps is to deliver software and services to customers faster, more reliably, and with higher quality. Key principles of DevOps include automation, continuous delivery, infrastructure as code, and monitoring and feedback.
+
+# 02- What is DevOps Culture?
+
+### DevOps culture is a set of values and practices that emphasizes collaboration, communication, and continuous improvement between software development teams and IT operations teams. It promotes a culture of trust, shared responsibility, and continuous learning. In a DevOps culture, developers and operations professionals work together to ensure that software is delivered quickly, reliably, and with high quality. They use automation, continuous delivery, infrastructure as code, and monitoring and feedback to achieve these goals. Key aspects of a DevOps culture include breaking down traditional silos between development and operations, encouraging experimentation and risk-taking, and fostering a culture of continuous learning and improvement.

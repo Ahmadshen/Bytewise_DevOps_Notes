@@ -4,7 +4,7 @@
 The `/DevOps` directory contains
 
 
-- [ ] [Week 1](journal/WEEK1.md)
+- [ ] [Week 1](DevOps/WEEK1.md)
 - [ ] [Week 2](journal/week2.md)
 - [ ] [Week 3](journal/week3.md)
 - [ ] [Week 4](journal/week4.md)

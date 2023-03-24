@@ -31,3 +31,11 @@ A model that focuses on rapid prototyping and iterative development, with a stro
 A model that emphasizes collaboration, automation, and continuous delivery, with a focus on delivering software quickly, reliably, and with high quality.
 
 Each software development lifecycle model has its own strengths and weaknesses, and the choice of model depends on factors such as the project requirements, team size, and organizational culture.
+
+# What is difference between Waterfall and Agile model?
+
+#### The main difference between the Waterfall and Agile models is their approach to software development.
+
+The Waterfall model is a linear sequential approach that consists of distinct phases (requirements gathering, design, development, testing, and maintenance) that are completed sequentially with little or no overlap between phases. Each phase must be completed before moving on to the next, and changes to requirements or design are difficult to incorporate once the project has moved to the next phase. The Waterfall model is suitable for projects with well-defined requirements and a stable scope, where changes are unlikely to occur.
+
+The Agile model, on the other hand, is an iterative and incremental approach that emphasizes collaboration, flexibility, and adaptability. The Agile model consists of short development cycles (known as sprints) that involve continuous planning, designing, building, testing, and delivery of working software. Each sprint delivers a working software increment, which can be tested and reviewed by stakeholders to provide feedback for future sprints. The Agile model is suitable for projects with evolving requirements, high levels of uncertainty, or a need for rapid prototyping.

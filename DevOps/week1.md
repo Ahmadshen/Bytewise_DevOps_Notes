@@ -1,5 +1,5 @@
-+ [Difference between RUN and CMD](#01-What-is-DevOps?)
-    + [01 What is DevOps?](#containerize-backend-and-frontend)
++ [Difference between RUN and CMD]
+    + [01 What is DevOps?](#01-what-is-devops)
     + [Updating the OpenAPI definitions](#updating-the-openapi-definitions)
     + [Updating the backend and frontend code to add notifications functionality](#updating-the-backend-and-frontend-code-to-add-notifications-functionality)
 # 01 What is DevOps?

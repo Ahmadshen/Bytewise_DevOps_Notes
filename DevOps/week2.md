@@ -37,5 +37,19 @@ Taylorism emphasizes breaking down work processes into their smallest parts and 
 
 One of the key principles of Taylorism is the separation of planning and execution. In this approach, managers plan the work processes and workers are responsible for executing them. Taylor believed that this division of labor would lead to increased productivity and efficiency.
 
+# How above concepts relate with each other in Agile Development. 
+                         
+### All the concepts mentioned above are closely related to Agile development and can be applied in an Agile development model to improve software development processes, collaboration, and delivery.
+
+#### For instance, Extreme Programming (XP) framework emphasizes teamwork, communication, simplicity, and customer feedback, which are the core values of Agile development. Pair programming, one of the practices of XP, helps to improve collaboration, communication, and knowledge sharing among team members, which are essential for Agile development.
+
+#### Similarly, Git Repository Guidelines in Agile Development emphasize version control and collaborative code management, which are critical for Agile development. Batching enables teams to prioritize work, collaborate better, and deliver value more frequently, leading to faster time-to-market and better customer satisfaction.
+
+#### Minimum Viable Product (MVP) is a development strategy that emphasizes delivering value early and frequently, which is a fundamental principle of Agile development. Test-Driven Development (TDD) and Behavior-Driven Development (BDD) are Agile development approaches that help to ensure code quality, reduce defects, and increase automation, which are essential for Agile development.
+
+#### Cloud Native Microservices are designed to be loosely coupled, highly available, and fault-tolerant, which aligns with the principles of Agile development. Designing for failure is an Agile development practice that helps to improve reliability, reduce downtime, and increase customer satisfaction.
+
+In summary, all the concepts mentioned above are closely related to Agile development and can be applied in an Agile development model to improve software development processes, collaboration, and delivery.                         
+
 
 

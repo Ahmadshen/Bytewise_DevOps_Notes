@@ -1,4 +1,7 @@
-
++ [Difference between RUN and CMD](#01-What-is-DevOps?)
+    + [01 What is DevOps?](#containerize-backend-and-frontend)
+    + [Updating the OpenAPI definitions](#updating-the-openapi-definitions)
+    + [Updating the backend and frontend code to add notifications functionality](#updating-the-backend-and-frontend-code-to-add-notifications-functionality)
 # 01 What is DevOps?
 #### DevOps is a methodology that emphasizes collaboration, communication, and automation between software development teams and IT operations teams. It aims to streamline the software development process, from planning and development to testing and deployment, by breaking down traditional silos and promoting a culture of collaboration and continuous improvement. The main goal of DevOps is to deliver software and services to customers faster, more reliably, and with higher quality. Key principles of DevOps include automation, continuous delivery, infrastructure as code, and monitoring and feedback.
 

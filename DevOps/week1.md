@@ -1,11 +1,11 @@
 + [WEEK 01 Tasks]
     + [01 What is DevOps?](#01-what-is-devops)
-    + [02 What is DevOps Culture?](#updating-the-openapi-definitions)
-    + [03 What are software development lifecycle models?](#updating-the-backend-and-frontend-code-to-add-notifications-functionality)
-    + [01 What is DevOps?](#01-what-is-devops)
-    + [01 What is DevOps?](#01-what-is-devops)
-    + [01 What is DevOps?](#01-what-is-devops)
-    + [01 What is DevOps?](#01-what-is-devops)
+    + [02 What is DevOps Culture?](#02-what-is-devops-culture)
+    + [03 What are software development lifecycle models?](#03-what-are-software-development-lifecycle-models)
+    + [04 What is difference between Waterfall and Agile model?](#01-what-is-devops)
+    + [05 DevOpsDays Conference, Arrested DevOps podcast (Google Podcast)](#05-devopsdays-conference-arrested-devops-podcast-google-podcast)
+    + [06 The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](#01-what-is-devops)
+    
 
 
 

@@ -22,5 +22,12 @@ Test-Driven Development (TDD) is essential for DevOps because it helps to ensure
 # 08 What are Cloud Native Microservices?
 Cloud Native Microservices are a software development approach that involves building small, independent, and scalable services that can run in the cloud. These services are designed to be loosely coupled, highly available, and fault-tolerant. Cloud Native Microservices enable teams to deploy and scale services independently, reduce complexity, and increase agility, leading to faster time-to-market and better customer satisfaction.
 
+## - Moving from legacy infrastructure & architecture to microservices.
+Deciding between microservices or legacy infrastructure for a project depends on several factors, such as the complexity of the project, the scalability requirements, the development team's skills, and the business needs.
+
+Legacy infrastructure may be suitable for smaller projects with simpler requirements, where a monolithic architecture can be easily maintained and updated. It may also be appropriate for organizations with limited resources or teams with less experience in microservices development.
+
+On the other hand, microservices architecture is suitable for large, complex projects that require scalability, flexibility, and high performance. Microservices can help organizations build and maintain large-scale applications with agility and speed by breaking the application down into smaller, loosely coupled components that can be developed, deployed, and scaled independently. Microservices are also ideal for organizations that require a high degree of customization, have diverse business requirements, or want to leverage cloud technologies.
+
 # 09 Designing for Failure in DevOps:
 Designing for failure is a DevOps practice that involves anticipating and preparing for potential failures in the system. It helps to improve reliability, reduce downtime, and increase customer satisfaction. Designing for failure involves using techniques like fault injection, chaos engineering, and disaster recovery planning. These techniques enable teams to identify and fix issues quickly, automate recovery, and ensure business continuity.

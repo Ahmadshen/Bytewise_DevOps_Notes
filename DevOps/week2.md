@@ -31,3 +31,11 @@ On the other hand, microservices architecture is suitable for large, complex pro
 
 # 09 Designing for Failure in DevOps:
 Designing for failure is a DevOps practice that involves anticipating and preparing for potential failures in the system. It helps to improve reliability, reduce downtime, and increase customer satisfaction. Designing for failure involves using techniques like fault injection, chaos engineering, and disaster recovery planning. These techniques enable teams to identify and fix issues quickly, automate recovery, and ensure business continuity.
+
+# 10 What is Taylorism?
+Taylorism emphasizes breaking down work processes into their smallest parts and analyzing them to identify the most efficient way to perform each task. This involves studying every aspect of work, including tools, techniques, and worker behavior, to identify ways to improve efficiency and productivity.
+
+One of the key principles of Taylorism is the separation of planning and execution. In this approach, managers plan the work processes and workers are responsible for executing them. Taylor believed that this division of labor would lead to increased productivity and efficiency.
+
+
+

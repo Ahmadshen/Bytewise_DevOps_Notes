@@ -2,9 +2,9 @@
     + [01 What is DevOps?](#01-what-is-devops)
     + [02 What is DevOps Culture?](#02-what-is-devops-culture)
     + [03 What are software development lifecycle models?](#03-what-are-software-development-lifecycle-models)
-    + [04 What is difference between Waterfall and Agile model?](#01-what-is-devops)
+    + [04 What is difference between Waterfall and Agile model?](#04-what-is-difference-between-waterfall-and-agile-model)
     + [05 DevOpsDays Conference, Arrested DevOps podcast (Google Podcast)](#05-devopsdays-conference-arrested-devops-podcast-google-podcast)
-    + [06 The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](#01-what-is-devops)
+    + [06 The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](#06-the-devops-handbook-how-to-create-world-class-agility-reliability-and-security-in-technology-organizations)
     
 
 

@@ -8,13 +8,12 @@
 
 # 03-What are software development lifecycle models?
 
-### What are software development lifecycle models?
+## Software development lifecycle models are frameworks that describe the stages and activities involved in the software development process. They provide a roadmap for software development teams to follow in order to ensure that software is developed efficiently and effectively.
 
-Software development lifecycle models are frameworks that describe the stages and activities involved in the software development process. They provide a roadmap for software development teams to follow in order to ensure that software is developed efficiently and effectively.
+### Some common software development lifecycle models include:
 
-Some common software development lifecycle models include:
-
-Waterfall Model: A linear model in which each phase of the software development process is completed sequentially, with no overlap between phases.
+## Waterfall Model: 
+A linear model in which each phase of the software development process is completed sequentially, with no overlap between phases.
 
 Agile Model: An iterative model in which software is developed incrementally and collaboratively, with frequent feedback and adaptation throughout the development process.
 

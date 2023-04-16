@@ -121,3 +121,42 @@ An epic is a large, high-level user story that is too big to be completed in a s
 - A user story that is bigger than a single sprint
 - Backlogs usually start as epics and become stories when defined
 - For sprint planning, Epics need to be broken into stories
+
+### Effectively Using Story Points
+- The story point is an abstract measure of the overall effort.
+- Used to measure the difficulty of implementing a user story.
+- Story points acknowledge that humans are bad at estimating time-to-completion.
+- Story points are like T-Shirt sizes.
+- Most tools use the Fibonacci series.
+- Since story points are relative, you will have to agree on what a particular size is.
+## - Story Size
+- A story should be small enough to be coded and tested in a single sprint
+iteration, ideally, just a few days.
+- Large stories should be broken down into smaller ones.
+## - Story point anti-pattern
+- Evaluating a story to wall-clock time.
+- Humans are bad at estimating wall clock time.
+## Building the Product Backlog
+- The product backlog contains all the unimplemented stories not in a sprint.
+- Stories are ranked in order of importance or business value.
+- Series are more detailed at the top, and less detailed at the bottom.
+- Sample requirements
+- As a …
+- I need …
+- So that …
+## - Lesson Summary - User Stories:
+● A user story documents a person requesting a function to achieve a goal.
+● Using a template helps ensure that stories are complete.
+● Defining "done" helps minimize misunderstandings.
+● Use the INVEST acronym to remember the qualities of a good user story: independent,
+negotiable, valuable, estimable, small, and testable.
+● Epics can be used to capture big ideas.
+● Story points are a metric used to estimate the difficulty of implementing a given user
+story.
+● Story points are relative, like T-Shirt sizes.
+● You must agree on what "average" means.
+● You should never equate story points with wall clock time.
+● A product backlog is a ranked list of all unimplemented stories.
+● Stories high in the ranking should have more detail than those that are lower.
+● Create stories using the "As a", "I need", and "So that" template to ensure everyone
+understands who it benefits and the business value it provides.

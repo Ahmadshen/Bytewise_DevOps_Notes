@@ -25,3 +25,24 @@ The goal of kanban teams is to minimize lead time by continuously improving thei
 ### 4 Encourage acts of leadership at all levels in your organization
 
 #### The Kanban principles include starting with the current process, agreeing to pursue incremental change, respecting current roles and responsibilities, and encouraging acts of leadership at all levels of the organization. Kanban is designed to gently improve legacy processes, without disrupting the underlying framework. It promotes a culture of collaboration, where anyone can take ownership of an issue and address it, and encourages acts of leadership at all levels of the organization. By doing so, Kanban empowers team members to take risks, grow professionally, and make a positive impact on the organization.
+
+# 3 Scrum Overview
+- Agile and scrum are not the same.
+- Agile is a philosophy of doing work.
+- Scrum is a methodology for doing work in an agile manner.
+- 
+- What is scrum?
+- 
+- It is a management framework for incremental product development.
+- It emphasizes working in small, cross-functional teams.
+- Provides a structure of rules, roles, and artifacts.
+- Uses fixed-length iterations called sprints.
+- Has a goal to build a potentially shippable product increment with every iteration.
+Sprint
+- A sprint is one iteration through the design, code, test, and deployment cycle.
+- Every sprint should have a goal.
+- Sprints are usually 2 weeks in duration.
+
+
+
+

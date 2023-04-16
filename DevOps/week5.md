@@ -246,3 +246,44 @@ meeting
 
 ● A sprint plan is created by moving stories from the product backlog into the sprint
 backlog until the team's velocity is reached
+
+# Daily Stand-up
+(The daily workflow in agile development typically involves a daily standup meeting, where the development team gathers to discuss progress, challenges, and plans for the day. Sprint retrospective and sprint reviews are meetings held at the end of a sprint to reflect on the previous sprint and plan for the next one. Potential attendees of these meetings include the development team, product owner, and other stakeholders.)  
+
+- Occurs every day at the same time and place.
+- AKA Daily Scrum.
+- Each member briefly reports on their work.
+- Timeboxed to 15 minutes.
+- No one is allowed to sit.
+- This is not a project status meeting.
+## - Who should attend?
+- Scrum master.
+- Development team.
+- Product onwer (optional).
+## - Daily stand-up questions:
+- What did I accomplish the previous day?
+- What will I work on today?
+- What blockers or impediments are in my way?
+## - Impediments and blockers
+- Impediments identified by the team should be unblocked by the scrum master.
+- Developers that are blocked should work on the next story.
+## - Tabled topics
+- Topics that are raised during the daily stand-up should be held until the meeting
+has ended.
+- Anyone interested in those topics can stay to discuss.
+- 
+## Lesson Summary: Executing the Plan:
+You need to keep the Kanban board updated so that everyone knows what you are working on
+- It is important to always work on the story with the highest priority that you have skills for
+
+- Working on more than one story at a time may lead to neither story being finished at the
+end of the sprint
+
+- The daily stand-up occurs every day for 15 minutes
+
+- Topics not related to the stand-up should be addressed after the meeting
+### Each person should be prepared to answer the three stand-up questions:
+
+- What did I accomplish the previous day?
+- What will I work on today?
+- What blockers or impediments are in my way?

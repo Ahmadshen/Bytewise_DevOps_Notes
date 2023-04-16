@@ -203,3 +203,38 @@ less priority. You can also reject them.
 - Have at least two sprints’ worth of stories groomed.
 
 # 8,9,10&11 Sprint&Milestones, Zenhub, Daily Workflow in Agile, Daily standup, Sprint Retrospective, Sprint Reviews, Sprint SUccess & Burndown Charts
+
+## Sprint Planning
+Sprint planning is a meeting at the start of a sprint where the development team decides which user stories to work on during the upcoming sprint. Sprint milestones are points in time during the sprint where specific goals or checkpoints should be met, such as the completion of certain user stories or features. To create user stories and add them to milestones on ZenHub, you can create new issues in ZenHub and add them to the appropriate milestone using the ZenHub Board or the issue's "Details" section.
+
+- Used to define what can be delivered in the sprint and how that work will be achieved.
+- This is accomplished by producing a sprint backlog.
+- Sprint Planning Meeting
+- Should be attended by Product Owner, Scrum Master, and the Development
+Team.
+### - Goals: Sprint goals should be clear. The product owner describes the goal and and
+product backlog items supporting.
+### - Mechanics of Sprint Planning
+- The development team takes stories from the product backlog and assigns
+them to the sprint backlog. It also assigns story points and labels. It also ensures
+each story has enough information for a developer to start working on it. It stops
+adding stories when team velocity is reached.
+- Team Velocity is the number of story points a team can complete in a single
+sprint. It can be changed over a period and it is unique to a team and cannot be
+compared to others.
+### - Create a Sprint Milestone
+- Create a sprint milestone to start the sprint.
+- The milestone title should be short.
+- The description should document the milestone goal.
+- Duration should be 2 weeks.
+#### Lesson Summary: The Planning Process
+● It is the product owner's responsibility to maintain a groomed backlog
+● Backlog refinement is used to order the product backlog and make stories sprint ready
+● You start refinement by triaging new issues
+● Large stories should be broken down until they are small enough to fit in a sprint
+● The goal of backlog refinement is to get the backlog ready for the sprint planning
+meeting
+● It is the product owner's responsibility to present the sprint goal
+● It is the development team’s responsibility to create a sprint plan
+● A sprint plan is created by moving stories from the product backlog into the sprint
+backlog until the team's velocity is reached

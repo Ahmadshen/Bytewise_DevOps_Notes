@@ -95,3 +95,29 @@ Improved stakeholder satisfaction: Scrum's focus on delivering working software 
 
 More efficient use of resources: Scrum's iterative and incremental approach enables teams to prioritize and focus on the most important work, which maximizes the use of limited resources and reduces waste.
 
+# 5 User Stories, Story Points, INVEST and Epic
+User stories are a way of expressing software requirements from the perspective of an end-user or customer. They are typically written in a simple, structured format that describes what a user wants to accomplish and why. Story points are a way of estimating the relative size and complexity of a user story, using a numerical scale that reflects the amount of work involved.  
+
+### User Stories:
+- Story Contents
+- Brief description of need and business value.
+- Any assumptions or details?
+- The definition of “Done”.
+- Given some conditions.
+- Gherkin syntax is used
+
+### The INVEST characteristics of a user story are:
+
+- Independent: the story can be worked on and completed independently of other stories
+- Negotiable: the details of the story can be discussed and refined as necessary
+- Valuable: the story delivers value to the user or customer
+- Estimable: the story can be estimated in terms of effort or complexity
+- Small: the story is small enough to be completed in a single sprint
+- Testable: the story can be tested to confirm that it meets the acceptance criteria
+
+### Epic
+An epic is a large, high-level user story that is too big to be completed in a single sprint. Epics are typically broken down into smaller, more manageable stories called "features" or "stories" that can be worked on within a sprint.
+- A big idea
+- A user story that is bigger than a single sprint
+- Backlogs usually start as epics and become stories when defined
+- For sprint planning, Epics need to be broken into stories

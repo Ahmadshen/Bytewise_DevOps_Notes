@@ -14,7 +14,7 @@ The commitment point is where an idea or project is picked up by the team, and t
 
 The goal of kanban teams is to minimize lead time by continuously improving their workflow.
 
-# 2 4 principles of Kanban
+# 2 Core Principles of Kanban
 
 1 Start with what you do now.
 
@@ -23,3 +23,5 @@ The goal of kanban teams is to minimize lead time by continuously improving thei
 3 Respect the current process, roles, responsibilities, and titles
 
 4 Encourage acts of leadership at all levels in your organization
+
+The Kanban principles include starting with the current process, agreeing to pursue incremental change, respecting current roles and responsibilities, and encouraging acts of leadership at all levels of the organization. Kanban is designed to gently improve legacy processes, without disrupting the underlying framework. It promotes a culture of collaboration, where anyone can take ownership of an issue and address it, and encourages acts of leadership at all levels of the organization. By doing so, Kanban empowers team members to take risks, grow professionally, and make a positive impact on the organization.

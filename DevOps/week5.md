@@ -287,3 +287,75 @@ end of the sprint
 - What did I accomplish the previous day?
 - What will I work on today?
 - What blockers or impediments are in my way?
+
+# Sprint Retrospective/Success/Reviews/Milestones, Burndown Charts
+Sprint success can be measured using various metrics, such as the number of user stories completed, the quality of the delivered software, and the team's ability to meet the sprint goals. Burndown charts are a graphical representation of a sprint's progress, showing the amount of work remaining versus time. The chart can be used to track progress, identify potential issues, and adjust the team's approach as necessary.
+
+## Completing the Sprint
+### - Milestones and Burndowns
+- Milestones can be created for anything in your project.
+- Burndown charts are used to measure progress against any milestone.
+### - Burndown Charts
+- The measure of story points completed vs story points remaining for a sprint.
+- Over time remaining story points should go down, hence the name: burndown.
+
+## The Sprint Review
+- It is a demo time.
+- Live demonstration of implemented stories.
+- The product owner evaluates if stories are done right.
+- Done stories are closed.
+### - Who should attend?
+- Anybody can join (including optional customers).
+- Feedback gets converted into new product backlog stories.
+- This is where iterative development allows the creation of products that couldn’t have
+been specified up-front in a plan-driven approach.
+### - Rejected Stories
+- What about stories that are not done?
+- Add a label to indicate this and close them.
+- Write a new story with new acceptance criteria.
+- This will keep the velocity more accurate since the work done on incomplete
+stories will also be counte
+
+## The Sprint Retrospective
+- A meeting to reflect on the sprint.
+- Measures the health of the process.
+- The development team must be comfortable speaking freely.
+### - Who should attend The Sprint Retrospective Meeting?
+- Scrum master.
+- Development team.
+### - Three questions are asked:
+- What went well?
+- What did not go well?
+- What should be changed for the next sprint?
+#### The goal is the improvement
+
+
+## Measuring Success
+- Vanity metrics
+- Actionable metrics
+## Getting Ready for Next Sprint
+- End of sprint activities:
+- Move stories from done to close.
+- Close the current milestone.
+- Create a new sprint milestone.
+- Adjust unfinished work.
+### - Handling Untouched Stories
+- These stories can be moved to the top of the backlog.
+- Resist the urge to move them into the next sprint.
+### - Handling Unfinished Stories
+- Do not move unfinished stories into your next sprint.
+- Give the developer credit for the work they did.
+- This will keep the velocity more accurate.
+- Adjust the description and add an unfinished label and move it to the done.
+- Write a new story for the remaining work.
+- Assign the remaining story points and move them to the next sprint.
+### - Ready for the Next Sprint
+- All stories assigned to the current sprint are closed.
+- All unfinished stories are reassigned.
+- The sprint milestone is closed.
+- A new sprint milestone is created.
+
+
+
+
+

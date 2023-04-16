@@ -212,7 +212,8 @@ Sprint planning is a meeting at the start of a sprint where the development team
 - Sprint Planning Meeting
 - Should be attended by Product Owner, Scrum Master, and the Development
 Team.
-### - Goals: Sprint goals should be clear. The product owner describes the goal and and
+### - Goals: 
+Sprint goals should be clear. The product owner describes the goal and and
 product backlog items supporting.
 ### - Mechanics of Sprint Planning
 - The development team takes stories from the product backlog and assigns
@@ -229,12 +230,19 @@ compared to others.
 - Duration should be 2 weeks.
 #### Lesson Summary: The Planning Process
 ● It is the product owner's responsibility to maintain a groomed backlog
+
 ● Backlog refinement is used to order the product backlog and make stories sprint ready
+
 ● You start refinement by triaging new issues
+
 ● Large stories should be broken down until they are small enough to fit in a sprint
+
 ● The goal of backlog refinement is to get the backlog ready for the sprint planning
 meeting
+
 ● It is the product owner's responsibility to present the sprint goal
+
 ● It is the development team’s responsibility to create a sprint plan
+
 ● A sprint plan is created by moving stories from the product backlog into the sprint
 backlog until the team's velocity is reached

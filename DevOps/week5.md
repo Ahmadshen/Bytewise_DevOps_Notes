@@ -202,3 +202,4 @@ less priority. You can also reject them.
 - Refine backlog every sprint to ensure the priorities are correct.
 - Have at least two sprints’ worth of stories groomed.
 
+# 8,9,10&11 Sprint&Milestones, Zenhub, Daily Workflow in Agile, Daily standup, Sprint Retrospective, Sprint Reviews, Sprint SUccess & Burndown Charts

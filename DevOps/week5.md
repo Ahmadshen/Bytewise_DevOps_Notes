@@ -136,6 +136,11 @@ iteration, ideally, just a few days.
 ## - Story point anti-pattern
 - Evaluating a story to wall-clock time.
 - Humans are bad at estimating wall clock time.
+
+# 6&7 Sprint, Product Backlog, Backlog Refinement 
+## Sprint
+- A sprint is a time-boxed period during which a development team works to complete a set of user stories. The length of a sprint can vary, but it is typically between one and four weeks.
+
 ## Building the Product Backlog
 - The product backlog contains all the unimplemented stories not in a sprint.
 - Stories are ranked in order of importance or business value.
@@ -160,3 +165,40 @@ story.
 ● Stories high in the ranking should have more detail than those that are lower.
 ● Create stories using the "As a", "I need", and "So that" template to ensure everyone
 understands who it benefits and the business value it provides.
+
+
+## Backlog Refinement
+- Keep important stories on top.
+- Break large stories near the top into smaller ones.
+- Make sure that stories near the top of the backlog are groomed and complete.
+### - Backlog refinement meeting:
+#### - Who should attend?
+- Product owner.
+- Scrum master.
+- Development team (optional and only one of them would be enough)
+#### - What is the goal?
+- Groom the backlog by ranking the stories in order of importance.
+- Make sure the story contains enough information for a developer to start
+working on it.
+### - New Issue Triage
+- Start with new issue triage.
+- Goal: At the end of backlog refinement, the New Issues column is empty.
+- Take stories from new issues and move them into product backlog or icebox if of
+less priority. You can also reject them.
+### - Backlog refinement workflow
+- The product owner sorts the product log in order of importance.
+- The team may provide estimates and other technical information.
+- Large vague items are split and clarified.
+- The goal is to make stories “sprint ready”.
+### - Labels
+- Labels in GitHub
+- The yellow label should be for the technical dept as well.
+#### - Examples of Technical Debt:
+- Code refactoring.
+- Set up and maintain environments.
+- Changing technology, like databases.
+- Updating vulnerable libraries.
+#### - Backlog refinement tips
+- Refine backlog every sprint to ensure the priorities are correct.
+- Have at least two sprints’ worth of stories groomed.
+
